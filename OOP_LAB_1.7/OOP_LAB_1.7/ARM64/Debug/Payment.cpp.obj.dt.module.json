@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ARM64\\Debug\\Payment.obj",
+            "outputs": [
+                "ARM64\\Debug\\Payment.cpp.obj.dt.module.json",
+                "ARM64\\Debug\\Payment.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ARM64\\Debug\\UnitTest1.7.obj",
+            "outputs": [
+                "ARM64\\Debug\\UnitTest1.7.cpp.obj.dt.module.json",
+                "ARM64\\Debug\\UnitTest1.7.cpp.obj.dt.d.json",
+                "ARM64\\Debug\\UnitTest1.7.pch"
+            ],
+            "requires": []
+        }
+    ]
+}
